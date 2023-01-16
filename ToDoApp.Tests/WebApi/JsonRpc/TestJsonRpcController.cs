@@ -1,3 +1,5 @@
+using ToDoApp.WebApi.JsonRpc;
+
 namespace ToDoApp.Tests.WebApi.JsonRpc;
 
 public class TestJsonRpcController
