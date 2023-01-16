@@ -1,3 +1,5 @@
+using ToDoApp.WebApi.HealthCheck;
+
 namespace ToDoApp.Tests.WebApi.HealthCheck;
 
 public class TestHealthCheckController
