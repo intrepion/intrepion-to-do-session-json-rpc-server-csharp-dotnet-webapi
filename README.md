@@ -19,3 +19,7 @@ dotnet test
 ```bash
 dotnet run --project ToDoApp.WebApi
 ```
+
+## CI/CD
+
+[![.NET](https://github.com/intrepion/intrepion-to-do-session-json-rpc-server-csharp-dotnet-webapi/actions/workflows/dotnet.yml/badge.svg?branch=main)](https://github.com/intrepion/intrepion-to-do-session-json-rpc-server-csharp-dotnet-webapi/actions/workflows/dotnet.yml)
